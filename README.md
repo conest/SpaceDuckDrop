@@ -2,7 +2,7 @@
 
 A simple game made with pygame and self-made engine: [Geoko](https://github.com/conest/Gecko)
 
-## ![01](img/set.png)
+![game_image_set](img/set.png)
 
 ## How to play
 
@@ -28,7 +28,8 @@ or directly
 python3 ./src/main.py
 ```
 
-A compiled version will be published later.
+A compiled version was published on [Itch.io](https://corvusnest.itch.io/space-duck-drop)
+
 
 ## Assets used in this game
 
